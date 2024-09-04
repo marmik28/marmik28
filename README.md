@@ -24,11 +24,10 @@ Hello! I'm Marmik Patel, a passionate software developer with a love for full-st
     <td valign="top">
       <h3>Programming Languages</h3>
       <hr />
-      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
       <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-      <img src="https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white" alt="Clojure" />
     </td>
     <td valign="top">
       <h3>Frontend</h3>
