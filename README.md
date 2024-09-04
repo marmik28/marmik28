@@ -85,8 +85,3 @@ Hello! I'm Marmik Patel, a passionate software developer with a love for full-st
 - LinkedIn: [Marmik Patel](https://www.linkedin.com/in/marmikpatel28/)
 - Email: marmik28112002@gmail.com
 
----
-
-## ⚡ Fun Fact
-- I love exploring new technologies and finding solutions to challenging problems.
-
