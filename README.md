@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-Hello! I'm Marmik Patel, a passionate software developer with a love for full-stack development and a keen interest in Software Quality Assurance. I'm currently pursuing a Bachelor of Computer Science Co-op at Concordia University, expected to graduate in 2026.
+Hello! I'm Marmik Patel, a passionate software developer with a love for full-stack development. I'm currently pursuing a Bachelor of Computer Science Co-op at Concordia University, expected to graduate in 2026.
 
 - 🔭 I’m currently working on building a **Smart Task Management System** using Java.
 - 🌱 I’m currently learning **Spring Boot** and **Framer Motion**.
