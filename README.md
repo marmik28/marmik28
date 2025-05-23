@@ -8,8 +8,8 @@
 ## 🚀 About Me
 Hello! I'm Marmik Patel, a passionate software developer with a love for full-stack development. I'm currently pursuing a Bachelor of Computer Science Co-op at Concordia University, expected to graduate in 2026.
 
-- 🔭 I’m currently working on building a **Smart Task Management System** using Java.
-- 🌱 I’m currently learning **Spring Boot** and **Framer Motion**.
+- 🔭 I’m currently working on building a **Authentication Framework** using Golang.
+- 🌱 I’m currently learning **Authentication** and **Authroization**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 📫 How to reach me: marmik28112002@gmail.com
 
