@@ -105,23 +105,6 @@ Hello! I'm Marmik Patel, a **Full-Stack Software Developer** with 2+ years of in
 
 ---
 
-## 📈 GitHub Stats
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![Marmik's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=marmik28&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/marmik28)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marmik28&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/marmik28)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=marmik28&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=marmik28&theme=tokyonight&no-bg=true&no-frame=true&row=1)
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 - 💼 **LinkedIn:** [Marmik Patel](https://www.linkedin.com/in/marmikpatel28/)
@@ -129,9 +112,3 @@ Hello! I'm Marmik Patel, a **Full-Stack Software Developer** with 2+ years of in
 - 📧 **Email:** marmik28112002@gmail.com
 
 ---
-
-<div align="center">
-
-*Thanks for stopping by! ⭐*
-
-</div>
