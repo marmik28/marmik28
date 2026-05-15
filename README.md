@@ -105,31 +105,18 @@ Hello! I'm Marmik Patel, a **Full-Stack Software Developer** with 2+ years of in
 
 ---
 
-## 🌟 Featured Projects
-
-### 🪙 [blastr.fun](https://blastr.fun) — Solana Meme-Coin Launchpad
-Production-grade pump.fun-style launchpad with virtual AMM bonding-curve math in **Rust** & **Anchor**. Features a typed TypeScript SDK, Next.js / React 19 frontend with TradingView-style OHLCV charts, real-time WebSocket price feeds, and zero-gas off-chain-first token creation via Supabase + Helius webhooks.
-
-### 🖥️ Smart Desk Occupancy System
-End-to-end IoT desk monitoring system with **ESP32** firmware in C, real-time cloud sync, role-based access control, and timestamped MongoDB activity logs for full auditability.
-> **Stack:** C, ESP32, Arduino, React, Node.js, MongoDB
-
-### 📋 Project Management Application
-Full-stack team collaboration platform with a typed React frontend over a GraphQL API and Flask + PostgreSQL backend supporting task tracking, team workflows, and authenticated multi-user sessions.
-> **Stack:** React, TypeScript, Flask, GraphQL, PostgreSQL
-
-### 💬 Anonymous Feedback System
-C# .NET backend for anonymous employee–manager feedback with role-scoped REST endpoints, input validation, and persistent storage of submissions and threaded responses.
-> **Stack:** C#, .NET, REST API, SQL
-
----
+## 📈 GitHub Stats
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-![Marmik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marmik28&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marmik28&layout=compact&theme=tokyonight&hide_border=true)
+[![Marmik's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=marmik28&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/marmik28)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marmik28&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/marmik28)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=marmik28&theme=tokyonight&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=marmik28&theme=tokyonight&no-bg=true&no-frame=true&row=1)
 
 </div>
 
